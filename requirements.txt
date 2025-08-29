@@ -1,0 +1,7 @@
+streamlit
+gradio-client
+pandas
+matplotlib
+requests
+numpy
+google-generativeai
